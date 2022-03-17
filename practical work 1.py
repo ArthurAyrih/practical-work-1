@@ -19,5 +19,4 @@ print("Вы живете в", country_1)
 surname = input("Ваша фамилия?")
 country_3 = input("Где вы живете?")
 print("Ваша фамилия", surname)
-
 print("Вы живете в", country_3)
